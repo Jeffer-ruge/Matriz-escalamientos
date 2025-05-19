@@ -162,8 +162,6 @@ input[list] {
   margin-top: 15px;
   text-align: center;
 }
-
-<style>
   .contact-section {
     background: linear-gradient(to right, #f8f8f8, #e0e0e0);
     padding: 60px 20px;
@@ -239,4 +237,3 @@ input[list] {
     from {transform: translateY(40px); opacity: 0;}
     to {transform: translateY(0); opacity: 1;}
   }
-</style>
